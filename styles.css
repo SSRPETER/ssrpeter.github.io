@@ -238,15 +238,6 @@ h1 {
   backdrop-filter: blur(8px);
 }
 
-.brush-title {
-  margin-bottom: 22px;
-  padding-bottom: 14px;
-  border-bottom: 1px solid var(--line);
-  color: var(--jade-deep);
-  font-size: 28px;
-  font-weight: 700;
-}
-
 .profile-list {
   display: grid;
   gap: 15px;
